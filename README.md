@@ -29,7 +29,7 @@ A Streamlit-based machine learning application that predicts the likelihood of t
 
 ## Running the Application
 ```
-streamlit run models/app.py
+streamlit run app.py
 ```
 
 ## Model Details
