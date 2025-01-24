@@ -51,6 +51,5 @@ This is a predictive tool and not a substitute for professional medical advice.
 
 
 ## Demo
-
-Insert gif or link to demo
+https://disease-predicition--using-ml.streamlit.app/
 
